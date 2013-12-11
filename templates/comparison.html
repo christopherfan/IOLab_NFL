@@ -1,0 +1,69 @@
+
+
+<body>
+	<div id="wrapper">
+		<a class="btn btn-warning" onClick="backMain(); return false;">Back to Team</a> 
+		<!-- <input type="hidden" value="{{ teamA }}"id="playerATeam">
+		<input type="hidden" value="{{ playerA }}" id="playerAId">
+		<input type="hidden" value="{{ teamB }}" id="playerBTeam">
+		<input type="hidden" value="{{ playerA }}" id="playerBId"> -->
+
+		<div id="playersComparison">
+			<div id="playerA" class="totalComparisonGraph">
+				<div class="playerName"></div>
+				<div class="recomendation">
+					<span class="position_cat"></span>
+					<img class="position_team"></span>
+					<span class="scoring"></span><br>rating
+				</div>
+			</div>
+			<!-- <div id="vs">vs</div> -->
+			<div id="playerB" class="totalComparisonGraph">
+				<div class="playerName"></div>
+				<div class="recomendation">
+					<span class="scoring"></span>
+					<img class="position_team"></span>
+					<span class="position_cat"></span><br>rating
+				</div>
+			</div>
+
+			<div id="categories">
+					<div id="passing_tds_cat" class="statCategoryBtn"> 
+						
+						<img src=""><br><a href="" class="btn btn-selection" onClick="statSelection('passing_tds');return false;">Passing TDs</a>
+					</div>
+					<div id="passing_yds_cat" class="statCategoryBtn">
+						<img src=""><br><a href="" class="btn btn-selection" onClick="statSelection('passing_yds');return false;">Passing Yds</a>
+						
+					</div>
+					<div id="receiving_tds_cat" class="statCategoryBtn">
+						<img src=""><br><a href="" class="btn btn-selection" onClick="statSelection('receiving_tds');return false;">Receiving TDs</a>
+						
+					</div>
+					<div id="receiving_yds_cat" class="statCategoryBtn">
+						<img src=""><br><a href="" class="btn btn-selection" onClick="statSelection('receiving_yds');return false;">Receiving Yds</a>
+						
+					</div>
+					<div id="rushing_tds_cat" class="statCategoryBtn">
+						<img src=""><br><a href="" class="btn btn-selection" onClick="statSelection('rushing_tds');return false;">Rushing TDs</a>
+						
+					</div>
+					<div id="rushing_yds_cat" class="statCategoryBtn">
+						<img src=""><br><a href="" class="btn btn-selection" onClick="statSelection('rushing_yds');return false;">Rushing Yds</a>
+						
+					</div>
+				<div>
+			</div>
+		</div>
+		
+		<div id="graphs">
+			<div id="timeLine" class="nflGraph"></div>
+		</div>
+	</div>	
+	<script>
+
+		//playerSelection(8,7);
+		
+    </script>
+
+</body>

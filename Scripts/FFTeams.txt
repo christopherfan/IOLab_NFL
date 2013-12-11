@@ -1,0 +1,160 @@
+TEAM	Wait for it
+QB	P. Rivers
+QB	C. Kaepernick
+RB	J. Charles
+RB	D. Murray
+RB	S. Ridley
+RB	D. Williams
+RB	C. Spiller
+WR	C. Johnson
+WR	B. Marshall
+WR	M. Wallace
+WR	K. Stills
+TE	V. Davis
+TE	R. Gronkowski
+K	G. Hartley
+DEF	NE
+TEAM	Guanatos
+QB	M. Stafford
+QB	R. Wilson
+QB	A. Dalton
+RB	A. Peterson
+RB	F. Gore
+RB	R. Jennings
+WR	V. Jackson
+WR	T. Hilton
+WR	R. Cooper
+WR	M. Floyd
+WR	K. Allen
+WR	R. Randle
+TE	D. Walker
+K	P. Dawson
+DEF	STL
+TEAM	Green Bay Pacman
+QB	C. Newton
+RB	K. Moreno
+RB	C. Johnson
+RB	R. Rice
+RB	C. Ivory
+RB	A. Brown
+WR	A. Brown
+WR	J. Gordon
+WR	A. Johnson
+WR	A. Jeffery
+WR	L. Fitzgerald
+WR	P. Harvin
+TE	C. Fleener
+K	M. Crosby
+DEF	BUF
+TEAM	Cowboys
+QB	T. Romo
+QB	E. Manning
+RB	M. Forte
+RB	G. Bernard
+RB	J. Bell
+RB	S. Greene
+WR	D. Bryant
+WR	K. Wright
+WR	H. Nicks
+WR	G. Jennings
+WR	S. Rice
+TE	J. Cameron
+TE	J. Witten
+K	M. Bryant
+DEF	BAL
+TEAM	Nighut
+QB	A. Luck
+QB	R. Griffin
+RB	L. McCoy
+RB	D. Woodhead
+RB	D. Sproles
+RB	D. Brown
+RB	S. Vereen
+WR	D. Thomas
+WR	D. Jackson
+WR	A. Boldin
+WR	T. Austin
+WR	D. Amendola
+TE	J. Graham
+K	D. Akers
+DEF	SF
+TEAM	The Mbond ultimatum
+QB	P. Manning
+RB	E. Lacy
+RB	M. Jones-Drew
+RB	A. Foster
+RB	J. Rodgers
+RB	B. Green-Ellis
+RB	B. Rainey
+WR	A. Green
+WR	G. Tate
+WR	T. Williams
+WR	C. Shorts
+WR	D. Bowe
+TE	G. Olsen
+K	B. Walsh
+DEF	TEN
+TEAM	OGR OLD GUYS RULE
+QB	D. Brees
+RB	R. Bush
+RB	Z. Stacy
+RB	L. Bell
+RB	C. Ogbonnaya
+WR	J. Nelson
+WR	E. Decker
+WR	E. Royal
+WR	D. Baldwin
+WR	S. Smith
+WR	J. Boykin
+TE	C. Clay
+K	M. Prater
+DEF	ARI
+DEF	DAL
+TEAM	BOSS MARTINFL
+QB	A. Smith
+QB	A. Rodgers
+RB	R. Mathews
+RB	T. Richardson
+RB	S. Jackson
+RB	M. Ball
+WR	T. Smith
+WR	B. LaFell
+WR	M. Colston
+WR	R. Cobb
+WR	M. Manningham
+TE	B. Pettigrew
+TE	B. Myers
+K	R. Succop
+DEF	HOU
+TEAM	GUTCORP
+QB	B. Roethlisberger
+QB	T. Brady
+QB	J. McCown
+RB	A. Morris
+RB	R. Helu
+WR	D. Thomas
+WR	P. Garcon
+WR	V. Cruz
+WR	J. Cotchery
+WR	H. Douglas
+WR	E. Sanders
+TE	T. Gonzalez
+K	S. Gostkowski
+DEF	KC
+DEF	CAR
+TEAM	lo que sea
+QB	N. Foles
+QB	R. Fitzpatrick
+RB	M. Lynch
+RB	F. Jackson
+RB	A. Ellington
+RB	R. Mendenhall
+RB	B. Tate
+WR	W. Welker
+WR	M. Jones
+WR	J. Edelman
+WR	R. White
+TE	J. Thomas
+K	S. Hauschka
+DEF	SEA
+DEF	DEN
