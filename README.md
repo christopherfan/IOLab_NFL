@@ -6,6 +6,6 @@ Team Members and Responsibilties: Ramit Malhotra: Front End Development Pablo Ar
 
 Technologies Used: Webpage: HTML, CSS, Javascript, jQuery Web Framework: Flask Visualization: D3 Data Manipulation: Python Helper Libraries: We used the NFLDB set of python libraries created by Andrew Gallant. These libraries helped create the initial postgreSQL databased of NFL statistics with set of database access libraries https://github.com/BurntSushi/nfldb/wiki
 
-Link to Demo Version:
+Link to Demo Version: Need to run locally using virtualenv
 
 List of Known Bugs: We do not have pictures for all players.
