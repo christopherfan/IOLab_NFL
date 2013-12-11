@@ -1,0 +1,180 @@
+
+@CHARSET "UTF-8";
+
+
+header
+{
+	background-color: steelblue;
+	font-family: 'Bowlby One SC', cursive;
+	color: white;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	padding: 25px;
+	box-shadow: 2px 2px 10px black;
+	font-size: 30pt;
+	padding-left: 140px;
+}
+
+body
+{
+	background-image: url('http://paybymobilephone.com/wp-content/uploads/2013/11/nfl-football-field-background-imagethe-kick-off-times-for-britbowl-are-announced-british-i4riftev.jpg');
+}
+
+#logo
+{
+	position: absolute;
+	width: 90px;
+	margin:20px;
+	top: -15px;
+
+}
+
+.card {
+	width:100px;
+	height:250px;
+	border-radius: 3px;
+	float: left;
+	margin-top: 10px;
+	margin-right:5px;
+	margin-left:5px;
+	padding:5px;
+	box-shadow: 0px 2px 10px black;
+	background-color: whitesmoke;
+	margin-top:5px;
+}
+
+.positionHeader
+{
+	margin:0px;
+	background-color:lightsteelblue;
+	font-size:20pt;
+	padding:10px;
+	border-top-right-radius:2px;
+	border-top-left-radius:2px;
+	box-shadow: none;
+
+}
+
+.card header
+{
+	padding:5px;
+	background-color: whitesmoke;
+	box-shadow: none;
+	height: 35px;
+	background-color: steelblue;
+	border-top-right-radius:2px;
+	border-top-left-radius:2px;
+	vertical-align: middle;
+}
+
+#team{
+	padding-top:40px;
+	width:1000px;
+	margin: 0 auto;
+}
+
+
+/*#first{
+	display:block;
+	width:1000px;
+}
+#second{
+	display:block;
+	width:1000px;
+}
+#third{
+	display:block;
+	width:1000px;
+}
+#fourth{
+	display:block;
+	width:1000px;
+}*/
+
+.nflpos
+{
+	background-color: whitesmoke;
+	border-radius: 5px;	
+	padding-bottom: 5px;
+	box-shadow: 2px 2px 10px black;
+	margin-bottom:10px;
+	vertical-align: center;
+	margin-right:20px;
+}
+#receivers{
+	display: inline-block;
+	/*max-width: 600px;*/
+}
+#tightends{
+	display:inline-block;
+	/*width: 300px;*/
+}
+
+#quarterbacks{
+	/*width:300px;*/
+/*	margin: 0 auto;*/
+	display:inline-block;
+}
+
+#runningbacks{
+	/*width: 600px;*/
+	display:inline-block;
+	
+}
+/*#defense{
+	width: 200px;
+	display: block;
+}
+#kicker{
+	display:initial;
+	width:200px;
+}
+
+*/
+.card header{
+	font-size: 12px;
+	text-align:center;
+}
+
+.card img{
+	width:100px;
+	height:auto;
+}
+
+.card section table{
+	font-size: 8px;
+}
+#stats, #rec{
+	display:inline-block;
+	width:48px;
+	text-align:center;
+}
+
+#rec img{
+	width:40px;
+	height:40px;
+}
+
+.card.def{
+	width: 250px;
+}
+.card.def img{
+	width: 250px;
+	height: 130px;
+}
+.card.def table img{
+	width:40px;
+	height:40px;
+	vertical-align: text-bottom;
+}
+
+.analysis{
+	text-decoration:none;
+}
+
+#comparePlayers
+{
+	margin-top: 50px;
+	border-radius: 5px;
+	padding-top:10px;
+
+}

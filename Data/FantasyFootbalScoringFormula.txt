@@ -1,0 +1,47 @@
+Starting Roster Positions & Roster Limits
+
+Quarterback:1
+Running Back:2
+Wide Receiver:2
+Tight End:1
+Kicker:1
+Defensive Team:1
+Running Back / Wide Receiver / Tight End:1
+Bench:6
+
+Scoring Settings
+
+Offense
+Passing Yards:1 point per 25 yards
+Passing Touchdowns:4 points
+Interceptions Thrown:-2 points
+Rushing Yards:1 point per 10 yards
+Rushing Touchdowns:6 points
+Receiving Yards:1 point per 10 yards
+Receiving Touchdowns:6 points
+Kickoff and Punt Return Touchdowns:6 points
+Fumble Recovered for TD:6 points
+Fumbles Lost:-2 points
+2-Point Conversions:2 points
+Kicking
+PAT Made:1 point
+FG Made 0-19:2 points
+FG Made 20-29:3 points
+FG Made 30-39:3 points
+FG Made 40-49:4 points
+FG Made 50+:5 points
+
+Defense / Special Teams
+Sacks:1 point
+Interceptions:2 points
+Fumbles Recovered:2 points
+Safeties:2 points
+Touchdowns:6 points
+Kickoff and Punt Return Touchdowns:6 points
+Points Allowed 0:10 points
+Points Allowed 1-6:7 points
+Points Allowed 7-13:4 points
+Points Allowed 14-20:1 point
+Points Allowed 21-27:0 points
+Points Allowed 28-34:-1 point
+Points Allowed 35+:-4 points

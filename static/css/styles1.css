@@ -1,0 +1,100 @@
+@CHARSET "UTF-8";
+
+#team{
+	width:1000px;
+	margin: 0 auto;
+}
+#first{
+	display:block;
+	width:1000px;
+}
+#second{
+	display:block;
+	width:1000px;
+}
+#third{
+	display:block;
+	width:1000px;
+}
+#fourth{
+	display:block;
+	width:1000px;
+}
+#receivers{
+	display: inline-block;
+	width: 600px;
+}
+#tightends{
+	display:inline-block;
+	width: 300px;
+}
+
+#quarterbacks{
+	width:300px;
+	margin: 0 auto;
+	display:block;
+}
+
+#runningbacks{
+	width: 600px;
+	display:block;
+	
+}
+#defense{
+	width: 200px;
+	display: block;
+}
+#kicker{
+	display:initial;
+	width:200px;
+}
+.card{
+	width:100px;
+	height:215px;
+	border: thin solid black;
+	float: left;
+	margin-top: 10px;
+	margin-right:10px;
+	padding:5px;
+}
+
+.card header{
+	font-size: 12px;
+	text-align:center;
+}
+
+.card img{
+	width:100px;
+	height:auto;
+}
+
+.card section table{
+	font-size: 8px;
+}
+#stats, #rec{
+	display:inline-block;
+	width:48px;
+	text-align:center;
+}
+
+#rec img{
+	width:40px;
+	height:40px;
+}
+
+.card.def{
+	width: 250px;
+}
+.card.def img{
+	width: 250px;
+	height: 130px;
+}
+.card.def table img{
+	width:40px;
+	height:40px;
+	vertical-align: text-bottom;
+}
+
+.analysis{
+	text-decoration:none;
+}
