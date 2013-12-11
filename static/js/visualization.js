@@ -572,6 +572,10 @@ function playerComparisonFantasy()
 	var height = 120
 
 	console.log(playerA);
+	
+	d3.select("#timeLine").append("div")
+							.attr("class","sectionTitle")
+							.text("Fantasy Points");
 
 	 d3.select("body").select("#timeLine").append("svg")
 	 				.attr("class","timeline")
