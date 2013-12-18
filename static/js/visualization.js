@@ -36,8 +36,8 @@ function playerSelection(player1,player2)
 			
 
 
-		playerComparison();
-		playerComparisonFantasy(playerA,playerB);
+	setTimeout(function(){playerComparison();
+		playerComparisonFantasy(playerA,playerB);},500);
 	});
 }
 
