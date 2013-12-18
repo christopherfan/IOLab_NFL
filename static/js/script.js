@@ -5,7 +5,7 @@ var playerBId;
 function compare()
 {
 	$("#mainTeamPage").hide();
-	$("#comparePlayers").load("/compare");
+	$("#comparePlayers").load("http://people.ischool.berkeley.edu/~ramit/sever/compare");
 }
 
 function backMain()
@@ -116,7 +116,7 @@ $(document).ready(function(){
 		player2.push(comparison_data[1][1][0]);
 		player2.push(comparison_data[1][1][3].toFixed(2))
 		$("#mainTeamPage").hide();
-		$("#comparePlayers").load("/compare");
+		$("#comparePlayers").load("compare");
 		//console.log(player1);
 		playerSelection(player1,player2);
 	});
