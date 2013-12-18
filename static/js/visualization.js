@@ -9,7 +9,7 @@ function playerSelection(player1,player2)
 	
 	console.log(player1);
 	console.log(player2);
-	d3.json("static/Data/ffTeamsStatistics_FreeAgents_Final.json",function(error,json)
+	d3.json("static/Data/ffTeamsStatistics_FreeAgents_final.json",function(error,json)
 	{
 		//console.log(json);
 
@@ -36,8 +36,8 @@ function playerSelection(player1,player2)
 			
 
 
-		playerComparison();
-		playerComparisonFantasy(playerA,playerB);
+	setTimeout(function(){playerComparison();
+		playerComparisonFantasy(playerA,playerB)},500);
 	});
 }
 
